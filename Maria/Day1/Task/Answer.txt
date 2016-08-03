@@ -1,0 +1,19 @@
+1.- Ruby is a dynamic programming language and open source focused on simplicity and
+    productivity. Its elegant syntax that is natural to read and easy to write, is
+    object-oriented,it is easy to use, flexible and powerful.
+    They are a programming language so high that even the numbers and character literals 
+    are objects, and have your class methods , which can be called normally.
+
+2.- Advantage
+    - It is a simple language and easy to read.
+    - Supported by most web platforms .
+    - This is a free or open source software.
+    - Integrated management commands databases.
+    Disadvantages 
+    - Not support multiple inheritance.
+    - You should define the guideline of your own 
+      code according the rules defined in the team.
+
+
+3.- The three test levels are level testing service,
+    Backend, and UI Testing.

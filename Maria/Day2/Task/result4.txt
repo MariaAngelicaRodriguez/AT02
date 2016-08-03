@@ -1,0 +1,33 @@
+the value of a: 20
+the value of a + b : 50
+the value of a - b : -10
+the value of a + b -c : 10
+the value of a * c : 800
+the value of b / c  : 0
+the value of b % c  : 30
+the value of a ** c  : 348678440100000000000000000000
+This is a string
+a == b: false
+a != b: true
+a > b: false
+b < c: true
+a >= b: false
+a <= b: true
+a <=> c: -1
+a === c: false
+a.eql?c: false
+a.equal?c: false
+the value of e is: 3
+the value of a is: 20 increasing el valor de a en 1 es: 21
+the value of a is: 21 decrementando el valor de a en 2 es: 19
+the value of a is: 19 multiplicand el valor de a en 2 es: 38
+the value of a is: 38 dividing el valor de a en 2 es: 19
+the value of a is: 19 module el valor de a en 2 es: 1
+the value of a is: 1 exponent  el valor de a en 2 es: 1
+the value of a and b is: 30
+the value of a or b is: 1
+the value of a && b is: 30
+the value of a || b is: 1
+the value of a ! b is: false
+the value of a && b is: false
+[Finished in 0.1s]

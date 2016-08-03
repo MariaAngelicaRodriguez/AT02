@@ -1,0 +1,4 @@
+The seconds : 3660 in minutes is : 61
+The seconds : 3660 in hours is : 1
+The second : 3660 in days is : 0
+[Finished in 0.1s]

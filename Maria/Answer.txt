@@ -1,5 +1,0 @@
-1...Ruby is an interpreted language cross-platform , object-oriented , 
-it is easy to use, flexible and powerful
-2...As pros is a simple way to define code
-as against not support multiple inheritance
-3...Are  service, Backend and UI Testing.

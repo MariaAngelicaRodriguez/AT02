@@ -1,0 +1,6 @@
+Bananas: 30
+apples: 98
+Now I will count the potato:
+7
+Is it true that 3+2<5-7?
+[Finished in 0.1s]
