@@ -1,0 +1,10 @@
+Customer id 1
+Customer name Ana
+Customer addres Sopocachi,LP
+Customer id 2
+Customer name Juan
+Customer addres Melchor Perez,CBBA
+Customer id 1
+Customer name Pepito
+Customer addres Sopocachi,LP
+[Finished in 0.1s]

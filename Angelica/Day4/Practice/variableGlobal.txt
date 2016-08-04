@@ -1,0 +1,10 @@
+Inside module
+6
+Inside class
+6
+Inside method
+6
+Inside toplevel
+6
+true
+[Finished in 0.1s]

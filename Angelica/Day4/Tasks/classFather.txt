@@ -1,0 +1,6 @@
+The Farher's money : 500
+The Son1's money : 100
+The Son2's money : 100
+The Son3's money : 100
+The Farher's money rest: 200
+[Finished in 0.1s]
