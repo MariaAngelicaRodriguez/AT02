@@ -1,0 +1,11 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\task>ruby PracticTo_f.rb
+Give me a number:
+4.5
+A bigger number is 450.0
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\task>
+
+
+
+
+

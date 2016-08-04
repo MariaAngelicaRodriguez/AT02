@@ -1,0 +1,17 @@
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Maria\Day3>ruby classCircle.rb
+ingrese radius
+3
+el area es = 18.84955592153876
+ingrese radius
+5
+el perimeter es = 78.53981633974483
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Maria\Day3>
+
+
+
+
+
+
+

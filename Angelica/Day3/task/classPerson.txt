@@ -1,0 +1,10 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\task>ruby classPerson.rb
+Name:
+Alexander
+Age:
+4
+In Minutes is : 2102400
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\task>
+
+

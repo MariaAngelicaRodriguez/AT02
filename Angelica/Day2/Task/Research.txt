@@ -1,0 +1,22 @@
+Research :
+a) The way to add comments on ruby (inline – multiline)
+    # This is a  single comment
+    =begin 
+        This is a multiline
+        comment
+    =end
+
+b) When you should use each type
+   Inline= Is used to put a single line comment
+   Multiline= You can span a comment multiple lines, although Ruby programmers 
+              rarely use this. They are useful when making notes for documentation.
+
+c) Create and script using inline-multiline comments
+     #Scripts for to use print and puts
+     puts "printed with line break"
+     =begin
+     if you want to print without
+     a line break,
+     use print
+     =end
+     print "printed with print"

@@ -1,0 +1,6 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\Practice>ruby Practica3.rb
+Whats is your name?
+Angelica
+hi Angelica!! How are you?
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\Practice>

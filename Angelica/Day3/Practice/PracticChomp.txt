@@ -1,0 +1,7 @@
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\Practice>ruby PracticChomp.rb
+Give me a number:
+45
+A bigger number is 4500
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\Practice>

@@ -1,0 +1,5 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\Practice>ruby class.rb
+My first instance method
+My second instance method
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day3\Practice>

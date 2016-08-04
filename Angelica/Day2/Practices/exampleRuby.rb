@@ -13,4 +13,4 @@ puts "prueba de" #SALTO DE LINEA
 puts "impresion"
 puts "con puts"
 
-0
+
