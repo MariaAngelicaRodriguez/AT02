@@ -1,0 +1,6 @@
+the color is  Negro
+the years is  98
+You accelerate to  10 mph.
+You desaccelerate to  50 mph.
+You shut the car
+[Finished in 0.1s]
