@@ -1,0 +1,9 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day6\Practice>ruby PracticeMethods.rb
+Insert  celsius
+56
+132
+Insert  fahrenheit
+45
+7
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day6\Practice>

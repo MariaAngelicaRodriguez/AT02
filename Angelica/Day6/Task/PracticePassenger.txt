@@ -1,0 +1,11 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day6\Practice>ruby PracticePassenger.rb
+Enter name
+Angie
+Enter price
+700
+Enter ciudad
+
+The name: Angie
+The destination: CBBA
+The price in Dollar is: 100 $us.
+

@@ -33,7 +33,7 @@ end
 car=Cars.new(1999,98)
 car.item_color="Negro"
 car.print_color()
-car.print_year()
+car.print_year
 car.speed_up(10)
 car.brake(50)
 car.shut()
