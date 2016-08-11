@@ -1,0 +1,9 @@
+["samsung", "nokia", "iphone"]
+1
+2
+5
+7
+11
+[1, 2, 5, 7, 11]
+[1, 2, 5, 7, 11]
+[Finished in 0.1s]

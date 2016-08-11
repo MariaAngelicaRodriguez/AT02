@@ -1,0 +1,4 @@
+Before yield
+I changed the value into the block 10
+The value obtained is the result: 10
+[Finished in 0.1s]
