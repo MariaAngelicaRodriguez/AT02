@@ -1,0 +1,9 @@
+[[1, 2, 3, 4, 5], ["a", "b", "c", "d", "e"], [1, 2, 3, 4, 5, "a", "b", "c", "d", "e"]]
+"The arraycommon is: [2, 5]"
+"The firtsElement of array 1 is: 1"
+"The firtsElement of array 2 is: 5"
+"The lastElement of array 1 is: 5"
+"The lastElement of array 2 is: 8"
+"The array  is: arraycommon: [2, 5]"
+[1, 8]
+[Finished in 0.1s]
