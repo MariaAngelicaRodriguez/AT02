@@ -1,0 +1,16 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day12\Practice>ruby FilePractice.rb
+Enter name text:
+ejemplo.txt
+enter number lines
+2
+Enter line: 1
+s
+Enter line: 2
+d
+de
+d
+f
+f
+g
+s
+d
