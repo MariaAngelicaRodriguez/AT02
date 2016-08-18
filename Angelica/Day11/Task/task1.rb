@@ -36,7 +36,7 @@ class Person
         @hashPerson.each{|key, value| @arrayUpperCase.push(value.upcase)}
 
         @hashPerson.each_with_index do |(key, value), index|
-	    puts"Index is #{index}" 
+	    
 	    return @arrayUpperCase
 	    end 
     end

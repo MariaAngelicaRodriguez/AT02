@@ -4,7 +4,7 @@
 
 class ClassHash
 
-  attr_reader :hashV  # es un simbolo
+  attr_reader :hashV
   def startHash()
 
         puts "Enter numbers elements:"
@@ -22,25 +22,25 @@ class ClassHash
   end
 
   def printHashKey()
-      p hashV.keys
+      p @hashV.keys
   end
 
   def printHashValue()
-      p hashV.values
+      p @hashV.values
   end
   def printHash()
-      p hashV
+      p @hashV
   end
   def keyExists()
       puts "Enter the key:"
       key = gets.to_i
-      p hashV.has_key?(key)
+      p @hashV.has_key?(key)
 
   end
   def valueExists()
       puts "Enter the value:"
       value = gets.chomp
-      p hashV.has_value?(value)
+      p @hashV.has_value?(value)
 
   end
 
