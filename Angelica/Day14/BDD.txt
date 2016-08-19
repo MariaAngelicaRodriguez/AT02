@@ -1,0 +1,42 @@
+BDD es metodologia en el desarrollo de SW
+TDD desarrollo orientado al testeo
+ATDD desarrollo orientado a los test de aceptacion
+test de comportamiento esperado
+Son utiles porq hay 
+Colaboracion: comunicacion directa  PO<->DEV<->QA
+Especificacion simple: Ubiquitous language
+Retroalimentacion facil: se hace los cambios a tiempo no al final
+Self  documentation:
+Requerimiento  Code  Tests  Wiki
+    A 1               
+    B 3
+    C 2
+Orientado al comportamiento
+Tet automatization
+Refactorizacion
+Sostenible : codigo que no se arruine a la larga, codigo lo mas limpio posible
+POC: prove on concep,  prueba de conceptos
+
+Feature
+
+Requerimientos
+criterios de aceptacion : criterio minimo de aceptacion , si algo hace minimamente lo que deberia hacer
+
+Role-feature-reason   user story
+Given - When - Then    escenarios  ( precondicion, accion y resultado)
+
+Gherkin scenarios  lenguaje traductor para representar en BDD
+
+BDT enfoque de testeo
+
+
+ 
+
+
+
+
+
+
+
+
+
