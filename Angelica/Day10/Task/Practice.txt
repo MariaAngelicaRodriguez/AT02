@@ -1,0 +1,10 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day10\Task>ruby  Practice.rb
+Enter your Name:
+angelica
+Enter your Age:
+30
+The age in Hours is:262800
+You are a adult
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day10\Task>
+

@@ -70,3 +70,6 @@ end
 s = Shopping.instance
 p s.method_buy
 
+			
+		
+

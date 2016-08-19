@@ -1,0 +1,3 @@
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day12\Task>ruby taskSingleton.rb
+The last user: jose

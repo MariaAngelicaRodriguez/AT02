@@ -1,0 +1,10 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day11\Practice>ruby Class.rb
+Enter username:
+angelica
+Enter password:
+soloyo
+Enter email:
+angie@gmail.com
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day11\Practice>
+

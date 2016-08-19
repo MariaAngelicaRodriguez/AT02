@@ -1,0 +1,24 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day11\Task>ruby task1.rb
+Enter number of person:
+3
+Enter ID:
+1
+Enter name:
+angie
+Enter ID:
+2
+Enter name:
+alex
+Enter ID:
+3
+Enter name:
+jose
+The ID 1 the name is angie
+The ID 2 the name is alex
+The ID 3 the name is jose
+The array uppercase is :["ANGIE", "ALEX", "JOSE"]
+Good bye  angie
+Good bye  alex
+Good bye  jose
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day11\Task>

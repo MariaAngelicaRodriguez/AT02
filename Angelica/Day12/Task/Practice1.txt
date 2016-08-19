@@ -1,0 +1,27 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Day12\Task>ruby Practice1.rb
+Enter numbers elements:
+2
+Enter userID: 1
+20
+userID is correct
+Enter userName: 1
+username1
+Invalid UserName. It should contain lower characters and  minimo 8 digits
+Enter userName: 1
+username
+UserName is correct
+Enter userID: 2
+2
+userID is correct
+Enter userName: 2
+luisito
+UserName is correct
+{20=>"username", 2=>"luisito"}
+Enter id for the find
+20
+Enter the char
+l
+{2=>"luisito"}
+User belong Group 1
+User belong Group 1
+{20=>"username"}
