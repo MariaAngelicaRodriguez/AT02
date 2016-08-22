@@ -1,0 +1,50 @@
+Research :
+1.- When and why BDD was defined
+BDD is a software development process, although it is mainly related to the Testing, which is where arises.
+BDD looking for a common language to unite the technical and the business, and it is from this common language from which the Testing and start from there development.
+
+2.- The most important aspects of BDD
+The most important aspect is that there is no difference between developers and testers, I is oriented to software behavior
+
+3.- Why is useful and when could be applied.
+Collaboration: direct communication PO - DEV qa
+Simple Specification: Ubiquitous language
+Easy Feedback: changes done on time not the end
+Avoid rework in requirements definition
+Self documentation
+Focus on Behavior
+
+4.- Which type of teams could implement BDD
+Teams using agile methodologies
+
+5.- Structure of a feature – Give an example
+
+   Name = insert user 
+   Size [Optional] 
+   Priority = hight
+
+6.- Structure of a user story – Give an example
+Title : Verify that the user to insert does not exist
+Narrative:
+As the operator I, 
+I want to insert a new user that does not exist
+so that avoid duplication with this user
+
+
+7.- Structure of a scenario – Give an example
+
+Feature:  Verify that the user to insert does not exist
+	
+As the operator I, 
+I want to insert a new user that does not exist
+so that avoid duplication with this user
+	
+Scenario: enter user code
+Scenario: Blank code
+
+
+
+8.- Differences between BDD and BDT
+BDT is focused on testing
+BDD is focused behavior
+
