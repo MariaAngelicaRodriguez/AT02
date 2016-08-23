@@ -11,4 +11,26 @@ Feature: practice
 
 1 scenario (1 undefined)
 5 steps (5 undefined)
-0m0.032s
+0m0.038s
+
+You can implement step definitions for undefined steps with these snippets:
+
+Given(/^I have \$(\d+) in my account$/) do |arg1|
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^my card is invalid$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^I request \$(\d+)$/) do |arg1|
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^my card should not be returned$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^I should be told to contact the bank$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end

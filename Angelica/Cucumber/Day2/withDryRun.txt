@@ -1,0 +1,33 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day2\cucumber\features>cucumber search_customer.feature --dry -run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+#This feature is owned by Angelica Rodriguez AT02 fellow of
+#the foundation jala group, created in date 08/23/2016
+#city of Cochabamba - Bolivia
+Feature: This is the practice with search customer
+
+  Scenario: Search customer by last name                                   # search_customer.feature:6
+    * I have a database full of customers                                  # search_customer.feature:7
+    * and sorted by last name                                              # search_customer.feature:8
+    * I want to find customers whose last names begin with the letter R    # search_customer.feature:9
+    * then you should see the list of clients that begin with the letter R # search_customer.feature:10
+
+1 scenario (1 undefined)
+4 steps (4 undefined)
+
+You can implement step definitions for undefined steps with these snippets:
+
+Given(/^I have a database full of customers$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^and sorted by last name$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^I want to find customers whose last names begin with the letter R$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^then you should see the list of clients that begin with the letter R$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
