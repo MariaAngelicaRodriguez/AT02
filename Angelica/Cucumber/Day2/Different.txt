@@ -1,0 +1,1 @@
+If we do not dry run shows the runtime

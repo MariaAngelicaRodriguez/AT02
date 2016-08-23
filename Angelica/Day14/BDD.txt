@@ -27,7 +27,8 @@ Given - When - Then    escenarios  ( precondicion, accion y resultado)
 
 Gherkin scenarios  lenguaje traductor para representar en BDD
 
-BDT enfoque de testeo
+BDT is focused on testing
+BDD is focused behavior
 
 
  
