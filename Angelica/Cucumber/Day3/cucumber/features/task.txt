@@ -1,0 +1,16 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day3\cucumber>cucumber features\task.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+Feature: Sign in an Account
+
+  Scenario: Scenario 1                  # features/task.feature:2
+    Given I select “Sign in”            # features/step_definitions/step_account.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_account.rb:2:in `/^I select “Sign in”$/'
+      features/task.feature:3:in `Given I select “Sign in”'
+    Given I select “Create and account” # features/step_definitions/step_account.rb:5
+
+1 scenario (1 pending)
+2 steps (1 skipped, 1 pending)
+0m0.039s
+
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day3\cucumber>
