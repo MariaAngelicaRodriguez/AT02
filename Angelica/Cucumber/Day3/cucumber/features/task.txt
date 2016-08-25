@@ -1,16 +1,21 @@
 C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day3\cucumber>cucumber features\task.feature
-*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
 Feature: Sign in an Account
 
-  Scenario: Scenario 1                  # features/task.feature:2
-    Given I select “Sign in”            # features/step_definitions/step_account.rb:1
+  Scenario: Scenario 1                       # features/task.feature:2
+    Given I select Sign in                   # features/step_definitions/step_account.rb:1
       TODO (Cucumber::Pending)
-      ./features/step_definitions/step_account.rb:2:in `/^I select “Sign in”$/'
-      features/task.feature:3:in `Given I select “Sign in”'
-    Given I select “Create and account” # features/step_definitions/step_account.rb:5
+      ./features/step_definitions/step_account.rb:2:in `/^I select (Sign in|Create and account)$/'
+      features/task.feature:3:in `Given I select Sign in'
+    When I select the subject                # features/step_definitions/step_account.rb:5
+    And is available                         # features/step_definitions/step_account.rb:9
+    And I press the button to accept         # features/step_definitions/step_account.rb:13
+    Then I see subject on my schedule.       # features/step_definitions/step_account.rb:17
+    Given I select Create and account        # features/step_definitions/step_account.rb:1
+    When I write my name                     # features/step_definitions/step_account.rb:21
+    And I write my pasword User              # features/step_definitions/step_account.rb:25
+    And I press the button to accept         # features/step_definitions/step_account.rb:13
+    Then I see a welcome message to my email # features/step_definitions/step_account.rb:29
 
 1 scenario (1 pending)
-2 steps (1 skipped, 1 pending)
-0m0.039s
-
-C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day3\cucumber>
+10 steps (9 skipped, 1 pending)
+0m0.145s
