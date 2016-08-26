@@ -1,0 +1,38 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day5\cucumber>cucumber features\daily.feature
+Feature: Daily activities
+
+  Background: Enter my Mail Foundation # features/daily.feature:2
+    Given I want to enter my mail      # features/step_definitions/step_daily.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_daily.rb:2:in `/^I want to enter my mail$/'
+      features/daily.feature:3:in `Given I want to enter my mail'
+    When I write my username           # features/step_definitions/step_daily.rb:5
+    And write my password              # features/step_definitions/step_daily.rb:9
+    And I click the OK button          # features/step_definitions/step_daily.rb:13
+    Then I see the list of my emails   # features/step_definitions/step_daily.rb:17
+
+  Scenario: See my day schedule                 # features/daily.feature:9
+    Given I want See my day schedule            # features/step_definitions/step_daily.rb:21
+    When I click on the button calendar my mail # features/step_definitions/step_daily.rb:25
+    Then I see my day schedule                  # features/step_definitions/step_daily.rb:29
+
+  Scenario: See my new class in my schedule                      # features/daily.feature:14
+    Given I want to see my new subject in my schedule            # features/step_definitions/step_daily.rb:33
+    And my current schedule looks like this:                     # features/step_definitions/step_daily.rb:37
+      |    | Monday  | Tuesday | Wednesday | Thusrday |
+      | 3p |         |         |           |          |
+      | 4p |         |         |           |          |
+      | 5p | English | English | English   | English  |
+      | 6p |         |         |           |          |
+    When I get an email with the new subject BDT beginning at 6p # features/step_definitions/step_daily.rb:42
+    And I click on the OK button                                 # features/step_definitions/step_daily.rb:46
+    Then My schedule should look like this:                      # features/step_definitions/step_daily.rb:50
+      |    | Monday  | Tuesday | Wednesday | Thusrday |
+      | 3p |         |         |           |          |
+      | 4p |         |         |           |          |
+      | 5p | English | English | English   | English  |
+      | 6p | BDT     | BDT     | BDT       | BD       |
+
+2 scenarios (2 pending)
+18 steps (16 skipped, 2 pending)
+0m0.295s
