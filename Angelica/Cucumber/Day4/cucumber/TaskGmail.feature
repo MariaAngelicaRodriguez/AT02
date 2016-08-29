@@ -8,13 +8,13 @@ Feature: New gmail account
    Scenario: Create a new account
     Given Entry Angelica
           And Entry Rodriguez
-          And Entry angie2406
+          And Entry angie
           And Entry *****
           And Confirm *****
-          And Select jun, 24, 1900 
-          And Select fem
+          And Select June, 24, 1900 
+          And Select female
           And Entry 72766235
-          And Entry maria@gmail.com 
+          And Entry maria.angelica.2006@gmail.com 
     When I press the button to accept 
     Then I see a welcome message to my email
           

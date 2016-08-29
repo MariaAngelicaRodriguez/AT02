@@ -1,0 +1,26 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day4\cucumber>cucumber features\TaskGmail.feature
+#Suppose you are going to test the form to create a new gmail account :
+#Add the feature file and the scenarios for your testing, in your steps
+# verify that arguments received for #each field are specific
+#(e.g. Birthday Year only numbers, etc, etc)
+Feature: New gmail account
+
+  Scenario: Create a new account             # features/TaskGmail.feature:8
+    Given Entry Angelica                     # features/step_definitions/stepTaskGmail.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/stepTaskGmail.rb:2:in `/^Entry ([A-Za-z])+$/'
+      features/TaskGmail.feature:9:in `Given Entry Angelica'
+    And Entry Rodriguez                      # features/step_definitions/stepTaskGmail.rb:1
+    And Entry angie                          # features/step_definitions/stepTaskGmail.rb:1
+    And Entry *****                          # features/step_definitions/stepTaskGmail.rb:24
+    And Confirm *****                        # features/step_definitions/stepTaskGmail.rb:28
+    And Select June, 24, 1900                # features/step_definitions/stepTaskGmail.rb:32
+    And Select female                        # features/step_definitions/stepTaskGmail.rb:10
+    And Entry 72766235                       # features/step_definitions/stepTaskGmail.rb:36
+    And Entry maria.angelica.2006@gmail.com  # features/step_definitions/stepTaskGmail.rb:40
+    When I press the button to accept        # features/step_definitions/stepTaskGmail.rb:15
+    Then I see a welcome message to my email # features/step_definitions/stepTaskGmail.rb:19
+
+1 scenario (1 pending)
+11 steps (10 skipped, 1 pending)
+0m0.202s
