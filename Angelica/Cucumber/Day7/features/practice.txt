@@ -1,0 +1,40 @@
+C:\Users\Angelicarodriguez\Desktop\Angie\BDT\repo\AT02\Angelica\Cucumber\Day7>cucumber features\practice.feature
+Feature: List clientes
+
+  @scenarioOutline
+  Scenario Outline: clientes    # features/practice.feature:3
+    Given I search user <User>  # features/practice.feature:4
+    When I insert id <Id>       # features/practice.feature:5
+    Then I have priced: <Price> # features/practice.feature:6
+
+    Examples:
+      | User  | Id  | Price |
+      | pepe  | 123 | 350   |   Letâ?Ts Go scenario: clientes, Examples (#1), I am running an outline scenario
+  , SEARCHINâ?¦
+  , I finished running the outline scenario
+  , Bye Bye it Passed,  Bye Bye it Passed
+      | juan  | 456 | 200   |   Letâ?Ts Go scenario: clientes, Examples (#2), I am running an outline scenario
+  , SEARCHINâ?¦
+  , I finished running the outline scenario
+  , Bye Bye it Passed,  Bye Bye it Passed
+      | maria | 789 | 100   |   Letâ?Ts Go scenario: clientes, Examples (#3), I am running an outline scenario
+  , SEARCHINâ?¦
+  , I finished running the outline scenario
+  , Bye Bye it Passed,  Bye Bye it Passed
+
+  @scenarioNormal @scenarioOutline
+  Scenario: search of a client # features/practice.feature:15
+       Letâ?Ts Go scenario: search of a client
+      CUSTOMER SEARCH TEST
+    Given I search user pepe   # features/step_definitions/step_practice.rb:1
+    When I insert id 123       # features/step_definitions/step_practice.rb:8
+    Then I see that pepe exits # features/step_definitions/step_practice.rb:19
+      I finished running a normal scenario
+       Bye Bye it Passed
+      I finished running the outline scenario
+      Bye Bye it Passed
+       Bye Bye it Passed
+
+4 scenarios (4 passed)
+12 steps (12 passed)
+0m0.264s
