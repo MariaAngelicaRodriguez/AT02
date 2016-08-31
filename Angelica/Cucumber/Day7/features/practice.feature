@@ -11,7 +11,6 @@ Scenario Outline: clientes
    | maria| 789|100  | 
 
 @scenarioNormal
-@scenarioOutline 
 Scenario: search of a client
    Given I search user pepe
    When I insert id 123  
